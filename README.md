@@ -7,4 +7,4 @@
 
 <h1>Visualização do Site</h1>
 <p>Para fazer a visualização do site, basta acessar o link:
-<a>https://kenttuz.github.io/Test-Landing-Page-Fict-cia/</a>
+<a target="_blank" href="https://kenttuz.github.io/Test-Landing-Page-Fict-cia/">https://kenttuz.github.io/Test-Landing-Page-Fict-cia/</a>
