@@ -196,7 +196,7 @@ body {
 }
 
 /*=== HOME =======================================*/
-#home h2 {
+#home h1 {
   position: absolute;
   width: 613px;
   height: 113px;
@@ -1099,7 +1099,7 @@ body {
   background: #ffffff;
 }
 
-#rodape h1 {
+#rodape h2 {
   position: absolute;
   width: 607px;
   height: 44px;
@@ -1234,7 +1234,7 @@ body {
   color: #033b29;
 }
 
-#rodape .menu-2 h1 {
+#rodape .menu-2 h3 {
   position: absolute;
   width: 66px;
   height: 30px;
@@ -1319,7 +1319,7 @@ body {
   color: #ffffff;
 }
 
-#rodape .contato-rodape h1 {
+#rodape .contato-rodape h3 {
   position: absolute;
   width: 93px;
   height: 30px;
